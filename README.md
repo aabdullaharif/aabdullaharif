@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Hi, I'm Abdullah, a full-time Software Enginner.<br>🌱 I’m currently learning AWS and MERN.<br>⚡ Fun fact: I use tabs over spaces.
+👨‍💻Hi, I'm Abdullah, a full-time Software Enginner.<br>🌱 Love to explore new technologies and stacks.
 
 
 ## 🌐 Socials:
